@@ -15,6 +15,7 @@
 		95DBF9232565AB6F007D73CE /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95DBF9222565AB6F007D73CE /* FrameworkDetailView.swift */; };
 		95DBF92A2565B3BC007D73CE /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95DBF9292565B3BC007D73CE /* AFButton.swift */; };
 		95DBF92E2565B765007D73CE /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95DBF92D2565B765007D73CE /* FrameworkGridViewModel.swift */; };
+		95DBF9322565C29E007D73CE /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95DBF9312565C29E007D73CE /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		95DBF9222565AB6F007D73CE /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		95DBF9292565B3BC007D73CE /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		95DBF92D2565B765007D73CE /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
+		95DBF9312565C29E007D73CE /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				95698F5F2565486000F563AE /* Framework.swift */,
 				95DBF9222565AB6F007D73CE /* FrameworkDetailView.swift */,
 				95DBF9292565B3BC007D73CE /* AFButton.swift */,
+				95DBF9312565C29E007D73CE /* SafariView.swift */,
 				95698F53256547F300F563AE /* Assets.xcassets */,
 				95698F58256547F300F563AE /* Info.plist */,
 				95698F55256547F300F563AE /* Preview Content */,
@@ -156,6 +159,7 @@
 				95DBF92A2565B3BC007D73CE /* AFButton.swift in Sources */,
 				95698F50256547F200F563AE /* SE_AppleFrameworksApp.swift in Sources */,
 				95DBF92E2565B765007D73CE /* FrameworkGridViewModel.swift in Sources */,
+				95DBF9322565C29E007D73CE /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
