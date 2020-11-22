@@ -27,6 +27,7 @@ struct FrameworkDetailView: View {
             Link(destination: URL(string: viewModel.framework.urlString) ?? URL(string: "https://developer.apple.com")!, label: {
                 AFButton(title: "Learn More")
             })
+            .padding(.bottom)
         }
     }
 }

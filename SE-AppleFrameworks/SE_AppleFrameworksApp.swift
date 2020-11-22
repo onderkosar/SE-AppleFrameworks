@@ -12,6 +12,7 @@ struct SE_AppleFrameworksApp: App {
     var body: some Scene {
         WindowGroup {
             FrameworkGridView()
+                .navigationViewStyle(StackNavigationViewStyle())
         }
     }
 }
